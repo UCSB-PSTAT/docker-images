@@ -1,6 +1,0 @@
-[submodule "pstat-134-docker-image"]
-	path = pstat-134-docker-image
-	url = https://github.com/ucsb-pstat/pstat-134-docker-image.git
-[submodule "pstat-131-docker-image"]
-	path = pstat-131-docker-image
-	url = https://github.com/ucsb-pstat/pstat-131-docker-image.git
