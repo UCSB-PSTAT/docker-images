@@ -4,3 +4,12 @@
 [submodule "pstat-134-docker-image"]
 	path = pstat-134-docker-image
 	url = https://github.com/ucsb-pstat/pstat-134-docker-image
+[submodule "ds-1-docker-image"]
+	path = ds-1-docker-image
+	url = https://github.com/ucsb-pstat/ds-1-docker-image
+[submodule "pstat-115-docker-image"]
+	path = pstat-115-docker-image
+	url = https://github.com/ucsb-pstat/pstat-115-docker-image
+[submodule "pstat-135-docker-image"]
+	path = pstat-135-docker-image
+	url = https://github.com/ucsb-pstat/pstat-135-docker-image
